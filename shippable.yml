@@ -39,5 +39,5 @@ integrations:
       on_success: always
       branches:  
         only:
-          - webhook-postci-trigger      
+          - webhook-postci-trigger         
           
