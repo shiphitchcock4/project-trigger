@@ -40,4 +40,4 @@ integrations:
       branches:
         only:
           - webhook-postci-trigger    
-      
+        
