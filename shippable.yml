@@ -23,7 +23,7 @@ build:
 
 integrations:
   
-  notifications:
+  notifications: 
 
     - integrationName: ship-webhook
       type: webhook
